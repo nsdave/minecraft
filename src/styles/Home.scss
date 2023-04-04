@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+.home__case {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    background-image: url('../images/stoneBck.jpg');
+    // background-color: #E6EBF4;
+    // background-color: #FFFFFF;
+    
+}
+
+.home__case__case {
+    width: 90%;
+    // background-color: purple;
+}
+
+.home__case__mat {
+    width: 90%;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    // background-color: #F1F2FB;
+    background-color: #EEEEEE;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.140);
+}
+
+
+
+.home__img__case {
+    display: flex;
+    flex-direction: column ;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 0 0 ;
+
+    h2 {
+        color: white;
+        font-size: 33px;
+        font-family: 'Crimson Text', serif;
+        position: absolute;
+        top: 34.5rem;
+        letter-spacing: 0.6px;
+    }
+}
+
+.home__img {
+    width: 100%;
+    margin-top: 88px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.140);
+}
+
+
+.home__down {
+    width: 100%;
+    height: 4rem;
+    margin: 0.5rem 0 0 0 ;
+}
+
+.home__circle__case {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 9rem;
+    padding: 3.5rem 0;
+    // background-color: black;
+}
+
