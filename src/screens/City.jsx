@@ -22,7 +22,7 @@ const City = () => {
         <div className='line__animation' >
           <Line />
         </div>
-
+        
         <div className='city__image city__second' />
         <div className='city__image city__third' />
         <div className='city__image city__fourth' />

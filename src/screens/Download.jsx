@@ -9,12 +9,12 @@ const Download = () => {
       <DownloadCards 
       title={'Download on Play Store'}
       linkname='Open'
-      link={''}
+      link={'https://play.google.com/store/apps/details?id=com.mojang.minecraftpe'}
       />
       <DownloadCards 
       title={'Download on App Store'}
       linkname='Open'
-      link={''}
+      link={'https://apps.apple.com/us/app/minecraft/id479516143'}
       />
       <DownloadCards 
       title={'Add server link'}
@@ -24,7 +24,7 @@ const Download = () => {
       <DownloadCards 
       title={'Whatsapp Group'}
       linkname='Join'
-      link={''}
+      link={'https://chat.whatsapp.com/JXj9qqxOvFC3ZlXaZbGqMZ'}
       />
     </div>
   )
